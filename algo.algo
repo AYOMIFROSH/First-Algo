@@ -1,0 +1,7 @@
+1. Initialize three counters: `length`, `words`, and `vowels`.
+2. Read the input sentence character by character.
+3. Increment `length` by 1 for each character read.
+4. If the current character is a space, increment `words` by 1.
+5. If the current character is a vowel (a, e, i, o, u), increment `vowels` by 1.
+6. If the current character is a period, exit the loop.
+7. Print out the values of `length`, `words`, and `vowels`
